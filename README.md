@@ -1,2 +1,2 @@
-# test1
-깃허브 테스트
+# TeamProjectTest
+중간 프로젝트
